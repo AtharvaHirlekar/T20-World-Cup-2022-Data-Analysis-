@@ -11,4 +11,4 @@ This Power BI project focuses on analyzing the T20 World Cup 2022. The dashboard
 - **Player Categories :** Players have been categorized into various groups, including batsmen, all-rounders, and bowlers, based on performance points.
 
 
-![T20_Cricket](https://github.com/AtharvaHirlekar/T20-World-Cup-2022-Data-Analysis-/assets/108040249/a4f453a9-6369-4a60-bf33-4651c978fcc5)
+![T20_Cricket](https://github.com/AtharvaHirlekar/T20-World-Cup-2022-Data-Analysis-/assets/108040249/4e19bf3c-f00a-4802-a480-b12be17af217)
