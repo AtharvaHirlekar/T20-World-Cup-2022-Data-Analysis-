@@ -9,3 +9,6 @@ This Power BI project focuses on analyzing the T20 World Cup 2022. The dashboard
 - **Performance Metrics :** Access key performance metrics for each player, including batting and bowling averages, strike rates, economy rates, and wicket counts.
 - **Player Profiles :** Hover over a player's name to access a detailed player profile, featuring additional statistics, match-by-match performance data, and highlights.
 - **Player Categories :** Players have been categorized into various groups, including batsmen, all-rounders, and bowlers, based on performance points.
+
+
+![T20_Cricket](https://github.com/AtharvaHirlekar/T20-World-Cup-2022-Data-Analysis-/assets/108040249/a4f453a9-6369-4a60-bf33-4651c978fcc5)
